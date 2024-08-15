@@ -1,6 +1,6 @@
 # 👋 Welcome to Sketchplay Playground Architects!
 
-![Sketchplay Playground Architects Logo](https://github.com/SketchplayPlaygroundArchitects/SketchplayPlaygroundArchitects/blob/main/logo%20lagtest.png)
+<img src="https://github.com/SketchplayPlaygroundArchitects/SketchplayPlaygroundArchitects/blob/main/logo%20lagtest.png" alt="Sketchplay Playground Architects Logo" width="150"/>
 
 ## About Us
 Hi, I’m **@SketchplayPlaygroundArchitects**. We are a dedicated team of playground architects specializing in creating innovative and functional play spaces. Our expertise spans a variety of areas, including playground design, sports and fitness facilities, and skateparks.
@@ -12,7 +12,7 @@ We’re passionate about designing spaces that inspire creativity, encourage phy
 We are continuously learning and adapting to the latest trends and technologies in playground and sports facility design. This includes advancements in sustainable materials, interactive play elements, and cutting-edge design software.
 
 ## 💞️ We’re Looking to Collaborate On
-We’re open to collaborating with other playground supply companies, their professional design teams, their playground product supply companies, helping to understand their users and the community behind the project. If you’re interested in working together on exciting projects or sharing innovative ideas, let’s connect!
+We’re open to collaborating with other playground supply companies, their professional design teams, and their playground product supply companies, helping to understand their users and the community behind the project. If you’re interested in working together on exciting projects or sharing innovative ideas, let’s connect!
 
 ## 📫 How to Reach Us
 You can get in touch with us through the following channels:
@@ -26,4 +26,5 @@ You can get in touch with us through the following channels:
 - **Pinterest:** [Sketchplay Playground Architects](https://www.pinterest.com/sketchplayplaygroundarchitects)
 - **LinkedIn:** [Sketchplay Playground Architects](https://www.linkedin.com/company/sketchplay-playground-architects)
 - **Facebook:** [Sketchplay Playground Architects](https://www.facebook.com/sketchplay.playground.architects)
-- **Twitter:** [@SketchplayArch](https://twitter.com/SketchplayArc
+- **Twitter:** [@SketchplayArch](https://twitter.com/SketchplayArch)
+
