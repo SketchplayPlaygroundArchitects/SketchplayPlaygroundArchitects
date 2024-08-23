@@ -21,7 +21,7 @@ You can get in touch with us through the following channels:
 - **Phone:** +44 1225 292400
 
 ## Connect with Us
-- **Instagram:** [@sketchplayplaygroundarchitects](https://www.instagram.com/sketchplayplaygroundarchitects)
+- **Instagram:** [@sketchplayplaygroundarchitects](https://www.instagram.com/sketchplayuk)
 - **YouTube:** [Sketchplay Playground Architects](https://www.youtube.com/@SketchplayPlaygroundArchitect)
 - **Pinterest:** [Sketchplay Playground Architects](https://www.pinterest.com/sketchplayplaygroundarchitects)
 - **LinkedIn:** [Sketchplay Playground Architects](https://www.linkedin.com/company/sketchplay-playground-architects)
