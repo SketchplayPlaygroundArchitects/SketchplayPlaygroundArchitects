@@ -3,15 +3,12 @@
 <img src="https://github.com/SketchplayPlaygroundArchitects/SketchplayPlaygroundArchitects/blob/main/logo%20lagtest.png" alt="Sketchplay Playground Architects Logo" width="150"/>
 
 ## About Us
-Hi, I’m **@SketchplayPlaygroundArchitects**. We are a dedicated team of playground architects specializing in creating innovative and functional play spaces. Our expertise spans a variety of areas, including playground design, sports and fitness facilities, and skateparks.
+Hi, we are **@SketchplayPlaygroundArchitects**. We are a dedicated team of playground architects specializing in creating innovative and functional play spaces. Our expertise spans a variety of areas, including playground design, sports and fitness facilities, and skateparks.
 
 ## 👀 What We’re Interested In
 We’re passionate about designing spaces that inspire creativity, encourage physical activity, and bring joy to people of all ages. We’re always exploring new ideas and techniques to enhance our designs and deliver exceptional results.
 
-## 🌱 What We’re Currently Learning
-We are continuously learning and adapting to the latest trends and technologies in playground and sports facility design. This includes advancements in sustainable materials, interactive play elements, and cutting-edge design software.
-
-## 💞️ We’re Looking to Collaborate On
+## 💞️ Collaborate with us!
 We’re open to collaborating with other playground supply companies, their professional design teams, and their playground product supply companies, helping to understand their users and the community behind the project. If you’re interested in working together on exciting projects or sharing innovative ideas, let’s connect!
 
 ## 📫 How to Reach Us
